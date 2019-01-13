@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>VOL</title>
+  
+  <subtitle>:)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-13T08:49:50.379Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ethan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>one</title>
+    <link href="http://yoursite.com/2019/01/12/one/"/>
+    <id>http://yoursite.com/2019/01/12/one/</id>
+    <published>2019-01-12T07:27:17.000Z</published>
+    <updated>2019-01-13T08:49:50.379Z</updated>
+    
+    <content type="html"><![CDATA[<p>！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
