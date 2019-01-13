@@ -236,6 +236,25 @@ a {
   color: #258fb8;
   text-decoration: none;
 }
+.body-background {
+  align-items: center;
+  background: #642b73;
+  background: linear-gradient(to bottom, #c6426e, #642b73);
+  display: flex;
+  font-family: 'Open Sans', sans;
+  justify-content: center;
+  overflow: hidden;
+  -webkit-perspective: 1800px;
+  perspective: 1800px;
+  text-align: center;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
 blockquote,
 dl,
 dd,
@@ -558,6 +577,9 @@ video {
 }
 .index-wrapper header {
   z-index: 10;
+  background: #0c0c0c;
+  border-radius: 15px;
+  box-shadow: 0px 10px 20px 8px rgba(0,0,0,0.17);
 }
 #particles-oli-wrapper {
   position: fixed;
@@ -580,6 +602,9 @@ video {
   background-color: #399c9c;
   line-height: 120px;
   box-sizing: border-box;
+  background: #642b73;
+  border-radius: 15px;
+  box-shadow: 0px 2px 3px 3px rgba(0,0,0,0.17);
 }
 .head-title {
   font-size: 30px;
